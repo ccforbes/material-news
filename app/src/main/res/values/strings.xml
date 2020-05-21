@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Material News</string>
+    <string name="title_item_detail">Item Detail</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="welcome">Welcome to Material News!</string>
+</resources>
